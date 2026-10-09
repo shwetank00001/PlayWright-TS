@@ -1,8 +1,11 @@
 import React from 'react'
+import UseStateTest from './state/UseStateTest'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <UseStateTest />
+    </div>
   )
 }
 
